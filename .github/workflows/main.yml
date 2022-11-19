@@ -1,4 +1,4 @@
-name: Java CI with Maven
+name: Shared Folder Server CI
 
 on:
   push:
