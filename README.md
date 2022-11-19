@@ -17,3 +17,4 @@ To run type in terminal:
 | `DB_USERNAME` | Database URL                                    | `postgres`                              |
 | `DB_PASSWORD` | Database URL                                    | `postgres`                              |
 | `DB_MIGRATION_ENABLED` | Enable/Disable flyway migration        | `true`                                  |
+
